@@ -18,6 +18,10 @@ a {
   float:left;
   color:#ffff;
 }
+.header-logo a:hover{
+  opacity:0.8;
+}
+
 .header-list li{
   float:left;
   padding:33px 40px;
@@ -168,4 +172,3 @@ input,textarea{
   float:right;
   color:#ffff;
 }
-
